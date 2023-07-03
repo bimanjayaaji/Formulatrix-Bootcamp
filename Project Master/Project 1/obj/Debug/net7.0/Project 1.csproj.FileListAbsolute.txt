@@ -1,0 +1,15 @@
+D:\Bootcamp SE - Bimanjaya\Project Master\Project 1\bin\Debug\net7.0\Project 1.exe
+D:\Bootcamp SE - Bimanjaya\Project Master\Project 1\bin\Debug\net7.0\Project 1.deps.json
+D:\Bootcamp SE - Bimanjaya\Project Master\Project 1\bin\Debug\net7.0\Project 1.runtimeconfig.json
+D:\Bootcamp SE - Bimanjaya\Project Master\Project 1\bin\Debug\net7.0\Project 1.dll
+D:\Bootcamp SE - Bimanjaya\Project Master\Project 1\bin\Debug\net7.0\Project 1.pdb
+D:\Bootcamp SE - Bimanjaya\Project Master\Project 1\obj\Debug\net7.0\Project 1.csproj.AssemblyReference.cache
+D:\Bootcamp SE - Bimanjaya\Project Master\Project 1\obj\Debug\net7.0\Project 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp SE - Bimanjaya\Project Master\Project 1\obj\Debug\net7.0\Project 1.AssemblyInfoInputs.cache
+D:\Bootcamp SE - Bimanjaya\Project Master\Project 1\obj\Debug\net7.0\Project 1.AssemblyInfo.cs
+D:\Bootcamp SE - Bimanjaya\Project Master\Project 1\obj\Debug\net7.0\Project 1.csproj.CoreCompileInputs.cache
+D:\Bootcamp SE - Bimanjaya\Project Master\Project 1\obj\Debug\net7.0\Project 1.dll
+D:\Bootcamp SE - Bimanjaya\Project Master\Project 1\obj\Debug\net7.0\refint\Project 1.dll
+D:\Bootcamp SE - Bimanjaya\Project Master\Project 1\obj\Debug\net7.0\Project 1.pdb
+D:\Bootcamp SE - Bimanjaya\Project Master\Project 1\obj\Debug\net7.0\Project 1.genruntimeconfig.cache
+D:\Bootcamp SE - Bimanjaya\Project Master\Project 1\obj\Debug\net7.0\ref\Project 1.dll
