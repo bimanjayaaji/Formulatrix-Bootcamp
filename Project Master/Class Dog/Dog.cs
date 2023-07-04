@@ -18,6 +18,11 @@ public class Dog
 	
 	public void Run()
 	{
-		
+		Console.WriteLine("/n Run /n" + name);
+	}
+	
+	public void Fight()
+	{
+		Console.WriteLine("Fight");
 	}
 }
