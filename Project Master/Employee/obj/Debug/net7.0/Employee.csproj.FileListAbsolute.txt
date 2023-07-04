@@ -1,0 +1,15 @@
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Employee\bin\Debug\net7.0\Employee.exe
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Employee\bin\Debug\net7.0\Employee.deps.json
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Employee\bin\Debug\net7.0\Employee.runtimeconfig.json
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Employee\bin\Debug\net7.0\Employee.dll
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Employee\bin\Debug\net7.0\Employee.pdb
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Employee\obj\Debug\net7.0\Employee.csproj.AssemblyReference.cache
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Employee\obj\Debug\net7.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Employee\obj\Debug\net7.0\Employee.AssemblyInfoInputs.cache
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Employee\obj\Debug\net7.0\Employee.AssemblyInfo.cs
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Employee\obj\Debug\net7.0\Employee.csproj.CoreCompileInputs.cache
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Employee\obj\Debug\net7.0\Employee.dll
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Employee\obj\Debug\net7.0\refint\Employee.dll
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Employee\obj\Debug\net7.0\Employee.pdb
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Employee\obj\Debug\net7.0\Employee.genruntimeconfig.cache
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Employee\obj\Debug\net7.0\ref\Employee.dll

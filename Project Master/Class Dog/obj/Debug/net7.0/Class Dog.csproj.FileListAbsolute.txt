@@ -1,0 +1,15 @@
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Class Dog\bin\Debug\net7.0\Class Dog.exe
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Class Dog\bin\Debug\net7.0\Class Dog.deps.json
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Class Dog\bin\Debug\net7.0\Class Dog.runtimeconfig.json
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Class Dog\bin\Debug\net7.0\Class Dog.dll
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Class Dog\bin\Debug\net7.0\Class Dog.pdb
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Class Dog\obj\Debug\net7.0\Class Dog.csproj.AssemblyReference.cache
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Class Dog\obj\Debug\net7.0\Class Dog.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Class Dog\obj\Debug\net7.0\Class Dog.AssemblyInfoInputs.cache
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Class Dog\obj\Debug\net7.0\Class Dog.AssemblyInfo.cs
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Class Dog\obj\Debug\net7.0\Class Dog.csproj.CoreCompileInputs.cache
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Class Dog\obj\Debug\net7.0\Class Dog.dll
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Class Dog\obj\Debug\net7.0\refint\Class Dog.dll
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Class Dog\obj\Debug\net7.0\Class Dog.pdb
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Class Dog\obj\Debug\net7.0\Class Dog.genruntimeconfig.cache
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Class Dog\obj\Debug\net7.0\ref\Class Dog.dll

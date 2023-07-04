@@ -6,7 +6,7 @@ public class Dog
 	public string colour;
 	public int weight;
 	
-	public Cat(string name)
+	public Dog(string name)
 	{
 		this.name = name;
 	}
@@ -14,6 +14,11 @@ public class Dog
 	public void Eat(string food)
 	{
 		Console.WriteLine($"{name} Eat {food}");
+	}
+	
+	public void Eat(string food, string drink) 
+	{
+		Console.WriteLine($" {name} Eat {food} and {drink}");
 	}
 	
 	public void Run()
