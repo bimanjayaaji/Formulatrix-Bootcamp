@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Class Cat/1.0.0": {
+        "runtime": {
+          "Class Cat.dll": {}
+        }
+      },
+      "Class Cat 2/1.0.0": {
+        "runtime": {
+          "Class Cat 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Class Cat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Class Cat 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,21 @@
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Class Cat\obj\Debug\net7.0\Class Cat.csproj.AssemblyReference.cache
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Class Cat\obj\Debug\net7.0\Class Cat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Class Cat\obj\Debug\net7.0\Class Cat.AssemblyInfoInputs.cache
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Class Cat\obj\Debug\net7.0\Class Cat.AssemblyInfo.cs
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Class Cat\obj\Debug\net7.0\Class Cat.csproj.CoreCompileInputs.cache
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Class Cat\bin\Debug\net7.0\Class Cat 2.deps.json
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Class Cat\bin\Debug\net7.0\Class Cat 2.runtimeconfig.json
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Class Cat\bin\Debug\net7.0\Class Cat 2.exe
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Class Cat\bin\Debug\net7.0\Class Cat.exe
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Class Cat\bin\Debug\net7.0\Class Cat.deps.json
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Class Cat\bin\Debug\net7.0\Class Cat.runtimeconfig.json
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Class Cat\bin\Debug\net7.0\Class Cat.dll
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Class Cat\bin\Debug\net7.0\Class Cat.pdb
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Class Cat\bin\Debug\net7.0\Class Cat 2.dll
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Class Cat\bin\Debug\net7.0\Class Cat 2.pdb
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Class Cat\obj\Debug\net7.0\Class Cat.csproj.CopyComplete
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Class Cat\obj\Debug\net7.0\Class Cat.dll
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Class Cat\obj\Debug\net7.0\refint\Class Cat.dll
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Class Cat\obj\Debug\net7.0\Class Cat.pdb
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Class Cat\obj\Debug\net7.0\Class Cat.genruntimeconfig.cache
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Class Cat\obj\Debug\net7.0\ref\Class Cat.dll
