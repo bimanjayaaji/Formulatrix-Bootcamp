@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Bootcamp SE - Bimanjaya\\Formulatrix-Bootcamp\\Project Master\\Project 1\\Project 1.csproj": {}
+    "D:\\Bootcamp SE - Bimanjaya\\Formulatrix-Bootcamp\\Project Master\\Class Cat 2\\Class Cat 2.csproj": {}
   },
   "projects": {
-    "D:\\Bootcamp SE - Bimanjaya\\Formulatrix-Bootcamp\\Project Master\\Project 1\\Project 1.csproj": {
+    "D:\\Bootcamp SE - Bimanjaya\\Formulatrix-Bootcamp\\Project Master\\Class Cat 2\\Class Cat 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Bootcamp SE - Bimanjaya\\Formulatrix-Bootcamp\\Project Master\\Project 1\\Project 1.csproj",
-        "projectName": "Project 1",
-        "projectPath": "D:\\Bootcamp SE - Bimanjaya\\Formulatrix-Bootcamp\\Project Master\\Project 1\\Project 1.csproj",
+        "projectUniqueName": "D:\\Bootcamp SE - Bimanjaya\\Formulatrix-Bootcamp\\Project Master\\Class Cat 2\\Class Cat 2.csproj",
+        "projectName": "Class Cat 2",
+        "projectPath": "D:\\Bootcamp SE - Bimanjaya\\Formulatrix-Bootcamp\\Project Master\\Class Cat 2\\Class Cat 2.csproj",
         "packagesPath": "C:\\Users\\Batch 3\\.nuget\\packages\\",
-        "outputPath": "D:\\Bootcamp SE - Bimanjaya\\Formulatrix-Bootcamp\\Project Master\\Project 1\\obj\\",
+        "outputPath": "D:\\Bootcamp SE - Bimanjaya\\Formulatrix-Bootcamp\\Project Master\\Class Cat 2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
