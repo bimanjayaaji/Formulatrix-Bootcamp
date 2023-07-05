@@ -8,7 +8,6 @@ public class Employee
 	private string _email;
 
 	public string Age { get; set; }
-
 	
 	public string Age2;
 	

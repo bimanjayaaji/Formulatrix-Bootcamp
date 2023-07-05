@@ -1,0 +1,15 @@
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Kingdom\obj\Debug\net7.0\Kingdom.csproj.AssemblyReference.cache
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Kingdom\obj\Debug\net7.0\Kingdom.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Kingdom\obj\Debug\net7.0\Kingdom.AssemblyInfoInputs.cache
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Kingdom\obj\Debug\net7.0\Kingdom.AssemblyInfo.cs
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Kingdom\obj\Debug\net7.0\Kingdom.csproj.CoreCompileInputs.cache
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Kingdom\bin\Debug\net7.0\Kingdom.exe
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Kingdom\bin\Debug\net7.0\Kingdom.deps.json
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Kingdom\bin\Debug\net7.0\Kingdom.runtimeconfig.json
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Kingdom\bin\Debug\net7.0\Kingdom.dll
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Kingdom\bin\Debug\net7.0\Kingdom.pdb
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Kingdom\obj\Debug\net7.0\Kingdom.dll
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Kingdom\obj\Debug\net7.0\refint\Kingdom.dll
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Kingdom\obj\Debug\net7.0\Kingdom.pdb
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Kingdom\obj\Debug\net7.0\Kingdom.genruntimeconfig.cache
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Kingdom\obj\Debug\net7.0\ref\Kingdom.dll
