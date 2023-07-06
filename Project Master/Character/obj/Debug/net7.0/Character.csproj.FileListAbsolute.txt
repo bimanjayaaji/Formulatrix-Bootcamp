@@ -1,0 +1,15 @@
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Character\obj\Debug\net7.0\Character.csproj.AssemblyReference.cache
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Character\obj\Debug\net7.0\Character.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Character\obj\Debug\net7.0\Character.AssemblyInfoInputs.cache
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Character\obj\Debug\net7.0\Character.AssemblyInfo.cs
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Character\obj\Debug\net7.0\Character.csproj.CoreCompileInputs.cache
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Character\bin\Debug\net7.0\Character.exe
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Character\bin\Debug\net7.0\Character.deps.json
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Character\bin\Debug\net7.0\Character.runtimeconfig.json
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Character\bin\Debug\net7.0\Character.dll
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Character\bin\Debug\net7.0\Character.pdb
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Character\obj\Debug\net7.0\Character.dll
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Character\obj\Debug\net7.0\refint\Character.dll
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Character\obj\Debug\net7.0\Character.pdb
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Character\obj\Debug\net7.0\Character.genruntimeconfig.cache
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Character\obj\Debug\net7.0\ref\Character.dll

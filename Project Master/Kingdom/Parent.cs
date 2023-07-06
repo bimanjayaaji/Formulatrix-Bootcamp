@@ -2,7 +2,7 @@ namespace ParentLib;
 
 public class Character
 {
-	public string charName;
+	static public string charName;
 	public bool isWhite;
 	
 	public Character(string name, bool isWhite)
@@ -25,12 +25,12 @@ public class Character
 	
 	public static void Walk()
 	{
-		Console.Writeline(charName + " is walking");
+		Console.WriteLine(charName + " is walking");
 	}
 	
 	public static void Fight()
 	{
-		Console.Writeline(charName + " is geludding");
+		Console.WriteLine(charName + " is geludding");
 	}
 	
 	
