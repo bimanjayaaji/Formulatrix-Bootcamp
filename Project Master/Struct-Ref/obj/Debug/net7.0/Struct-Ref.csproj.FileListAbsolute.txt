@@ -1,0 +1,15 @@
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Struct-Ref\bin\Debug\net7.0\Struct-Ref.exe
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Struct-Ref\bin\Debug\net7.0\Struct-Ref.deps.json
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Struct-Ref\bin\Debug\net7.0\Struct-Ref.runtimeconfig.json
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Struct-Ref\bin\Debug\net7.0\Struct-Ref.dll
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Struct-Ref\bin\Debug\net7.0\Struct-Ref.pdb
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Struct-Ref\obj\Debug\net7.0\Struct-Ref.csproj.AssemblyReference.cache
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Struct-Ref\obj\Debug\net7.0\Struct-Ref.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Struct-Ref\obj\Debug\net7.0\Struct-Ref.AssemblyInfoInputs.cache
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Struct-Ref\obj\Debug\net7.0\Struct-Ref.AssemblyInfo.cs
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Struct-Ref\obj\Debug\net7.0\Struct-Ref.csproj.CoreCompileInputs.cache
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Struct-Ref\obj\Debug\net7.0\Struct-Ref.dll
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Struct-Ref\obj\Debug\net7.0\refint\Struct-Ref.dll
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Struct-Ref\obj\Debug\net7.0\Struct-Ref.pdb
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Struct-Ref\obj\Debug\net7.0\Struct-Ref.genruntimeconfig.cache
+D:\Bootcamp SE - Bimanjaya\Formulatrix-Bootcamp\Project Master\Struct-Ref\obj\Debug\net7.0\ref\Struct-Ref.dll
