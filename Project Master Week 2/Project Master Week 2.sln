@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_Scratching", "_Scratching\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ref-out-in", "ref-out-in\ref-out-in.csproj", "{7901EACD-B459-4D8F-B0C1-C8391E889899}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "enum", "enum\enum.csproj", "{2F969627-A9A4-4F62-A419-C11EF7A3F5E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{7901EACD-B459-4D8F-B0C1-C8391E889899}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7901EACD-B459-4D8F-B0C1-C8391E889899}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7901EACD-B459-4D8F-B0C1-C8391E889899}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F969627-A9A4-4F62-A419-C11EF7A3F5E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F969627-A9A4-4F62-A419-C11EF7A3F5E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F969627-A9A4-4F62-A419-C11EF7A3F5E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F969627-A9A4-4F62-A419-C11EF7A3F5E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

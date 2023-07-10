@@ -4,18 +4,18 @@ class Program
 {
 	static void Main()
 	{
-		int number = 10;
+		int number = 15;
 		int result;
 
-		// Using 'ref'
+		// ref
 		MultiplyByTwoRef(ref number);
 		Console.WriteLine("Using 'ref': " + number);
 
-		// Using 'out'
+		// out
 		MultiplyByTwoOut(out result);
 		Console.WriteLine("Using 'out': " + result);
 
-		// Using 'in'
+		// in
 		int readonlyNumber = 5;
 		MultiplyByTwoIn(in readonlyNumber);
 	}
@@ -33,7 +33,7 @@ class Program
 
     static void MultiplyByTwoIn(in int num)
     {
-        // num *= 2;  // Compilation error: Cannot modify the read-only parameter
+        // num *= 2;  // error
         int result = num * 2;
         Console.WriteLine("Using 'in': " + result);
     }
