@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "enum", "enum\enum.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "delegate-event", "delegate-event\delegate-event.csproj", "{5FD9D626-EF73-4E7A-9ACB-3A226A08C56B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "operator-overload", "operator-overload\operator-overload.csproj", "{7CF158F5-10C7-447A-9699-6AF9D2D51A44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "enumerator", "enumerator\enumerator.csproj", "{8E35AF97-C86A-47C1-82DE-63E182FFCC71}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +40,13 @@ Global
 		{5FD9D626-EF73-4E7A-9ACB-3A226A08C56B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FD9D626-EF73-4E7A-9ACB-3A226A08C56B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FD9D626-EF73-4E7A-9ACB-3A226A08C56B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CF158F5-10C7-447A-9699-6AF9D2D51A44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CF158F5-10C7-447A-9699-6AF9D2D51A44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CF158F5-10C7-447A-9699-6AF9D2D51A44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CF158F5-10C7-447A-9699-6AF9D2D51A44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E35AF97-C86A-47C1-82DE-63E182FFCC71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E35AF97-C86A-47C1-82DE-63E182FFCC71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E35AF97-C86A-47C1-82DE-63E182FFCC71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E35AF97-C86A-47C1-82DE-63E182FFCC71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
