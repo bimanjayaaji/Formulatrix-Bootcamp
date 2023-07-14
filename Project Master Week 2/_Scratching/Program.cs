@@ -1,4 +1,4 @@
-﻿namespace Week2Day2;
+namespace Week2Day2;
 
 public delegate void RobotEventHandler(object sender, RobotEventArgs e);
 
@@ -30,7 +30,7 @@ public class RobotEventArgs : EventArgs
 
 public class Robot
 {
-	public event RobotEventHandler RobotEvent;
+	public event RobotEventHandler? RobotEvent;
 
 	public void PerformTask(string task)
 	{

@@ -15,10 +15,15 @@ class Program
 
 class Kucing
 {
-	public string nama;
+	public string? nama;
 	public int goal;
 	public int assist;
 	public int price;
+	
+	public Kucing()
+	{
+		
+	}
 	
 	public Kucing(string nama, int goal, int assist, int price)
 	{
@@ -32,7 +37,7 @@ class Kucing
 	{
 		var putih = new Kucing();
 		putih.nama = oren.nama + cireng.nama;
-		putih.goal = oren.Goal + cireng.Goal;
+		putih.goal = oren.goal + cireng.goal;
 		putih.assist = oren.assist + cireng.assist;
 		putih.price = oren.price + cireng.price;
 		

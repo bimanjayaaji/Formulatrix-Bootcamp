@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "operator-overload", "operat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "enumerator", "enumerator\enumerator.csproj", "{8E35AF97-C86A-47C1-82DE-63E182FFCC71}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "formatting-parsing-datetime", "formatting-parsing-datetime\formatting-parsing-datetime.csproj", "{BAAE465D-C322-4C56-B88E-22E99F4E216C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "parsing-datetime", "parsing-datetime\parsing-datetime.csproj", "{F4E3FFDF-474A-4209-A4E5-A48ED52EF33B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +52,13 @@ Global
 		{8E35AF97-C86A-47C1-82DE-63E182FFCC71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E35AF97-C86A-47C1-82DE-63E182FFCC71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E35AF97-C86A-47C1-82DE-63E182FFCC71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAAE465D-C322-4C56-B88E-22E99F4E216C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAAE465D-C322-4C56-B88E-22E99F4E216C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAAE465D-C322-4C56-B88E-22E99F4E216C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAAE465D-C322-4C56-B88E-22E99F4E216C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4E3FFDF-474A-4209-A4E5-A48ED52EF33B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4E3FFDF-474A-4209-A4E5-A48ED52EF33B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4E3FFDF-474A-4209-A4E5-A48ED52EF33B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4E3FFDF-474A-4209-A4E5-A48ED52EF33B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

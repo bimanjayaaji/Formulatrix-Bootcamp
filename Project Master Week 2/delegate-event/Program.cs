@@ -50,10 +50,10 @@ public class RobotEventArgs : EventArgs
 
 public class Robot
 {
-	public event RobotEventHandler RockNotDetected;
-	public event RobotEventHandler RockDetected;
-	public event RobotEventHandler ContainerPrepared;
-	public event RobotEventHandler RockPickedUp;
+	public event RobotEventHandler? RockNotDetected;
+	public event RobotEventHandler? RockDetected;
+	public event RobotEventHandler? ContainerPrepared;
+	public event RobotEventHandler? RockPickedUp;
 	
 	public void RobotGo()
 	{
