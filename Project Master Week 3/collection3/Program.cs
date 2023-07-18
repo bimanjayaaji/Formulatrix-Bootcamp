@@ -79,50 +79,43 @@ class TicTacToe
 		Console.WriteLine("");
 		Console.WriteLine("");
 		Console.WriteLine("Let's start the game!");
-		int row, column;
 		
 		while (true)
 		{
 			DisplayBoard();
-			Console.WriteLine($"{player1.Name}'s turn");
-			Console.Write("Choose Row (0-2) : ");
-			string rowed = Console.ReadLine();
-			row = int.Parse(rowed);
-			Console.Write("Choose Column (0-2) : ");
-			string columned = Console.ReadLine();
-			column = int.Parse(columned);
-			
-			// check udah keisi belom
-			if (boardCond[row,column] == '_')
-			{
-				boardCond[row,column] = player1.Mark;	
-			} 
-			else
-			{
-				// cw dan ngulang	
-			}
-			// check win
+			TakeTurn(player1);
+			// CheckWin();
 			
 			DisplayBoard();
-			Console.WriteLine($"{player2.Name}'s turn");
-			Console.Write("Choose Row (0-2) : ");
-			rowed = Console.ReadLine();
-			row = int.Parse(rowed);
-			Console.Write("Choose Column (0-2) : ");
-			columned = Console.ReadLine();
-			column = int.Parse(columned);
-			
-			// check udah keisi belom
-			if (boardCond[row,column] == '_')
-			{
-				boardCond[row,column] = player1.Mark;	
-			} 
-			else
-			{
-				// cw dan ngulang	
-			}
-			// check win
+			TakeTurn(player2);
+			// CheckWin();
 		}
+	}
+	
+	public void TakeTurn(Player player)
+	{
+		int row, column;
+		Console.WriteLine($"{player.Name}'s turn");
+		Console.Write("Choose Row (0-2) : ");
+		string rowed = Console.ReadLine();
+		row = int.Parse(rowed);
+		Console.Write("Choose Column (0-2) : ");
+		string columned = Console.ReadLine();
+		column = int.Parse(columned);
+		
+		// check udah keisi belom
+		if (boardCond[row,column] == '_')
+		{
+			boardCond[row,column] = player.Mark;	
+		} 
+		else
+		{
+			Console.WriteLine("");
+			Console.WriteLine("Already assigned. Choose again!");
+			DisplayBoard();
+			TakeTurn(player);	
+		}
+		// check win
 	}
 }
 
