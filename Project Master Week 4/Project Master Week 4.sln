@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCollector", "GCollector\GCollector.csproj", "{F76AAFF4-EF74-4B1B-A718-AA0CCEBAD682}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Destructor1", "Destructor1\Destructor1.csproj", "{D1A4E0A2-136C-4BED-9F57-75CFDB38086E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisposeP1", "DisposeP1\DisposeP1.csproj", "{80192985-24B3-47E5-803C-B40DBA3FA82C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F76AAFF4-EF74-4B1B-A718-AA0CCEBAD682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F76AAFF4-EF74-4B1B-A718-AA0CCEBAD682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F76AAFF4-EF74-4B1B-A718-AA0CCEBAD682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F76AAFF4-EF74-4B1B-A718-AA0CCEBAD682}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1A4E0A2-136C-4BED-9F57-75CFDB38086E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1A4E0A2-136C-4BED-9F57-75CFDB38086E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1A4E0A2-136C-4BED-9F57-75CFDB38086E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1A4E0A2-136C-4BED-9F57-75CFDB38086E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80192985-24B3-47E5-803C-B40DBA3FA82C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80192985-24B3-47E5-803C-B40DBA3FA82C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80192985-24B3-47E5-803C-B40DBA3FA82C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80192985-24B3-47E5-803C-B40DBA3FA82C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
