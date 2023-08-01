@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditional Compilation", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logging", "Logging\Logging.csproj", "{04BF7E66-D11F-46C9-816C-ACEFB3CEF61D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threading", "Threading\Threading.csproj", "{A73850CE-4F8A-4C3B-B2E9-63DFC5F00F7A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{04BF7E66-D11F-46C9-816C-ACEFB3CEF61D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04BF7E66-D11F-46C9-816C-ACEFB3CEF61D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04BF7E66-D11F-46C9-816C-ACEFB3CEF61D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A73850CE-4F8A-4C3B-B2E9-63DFC5F00F7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A73850CE-4F8A-4C3B-B2E9-63DFC5F00F7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A73850CE-4F8A-4C3B-B2E9-63DFC5F00F7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A73850CE-4F8A-4C3B-B2E9-63DFC5F00F7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

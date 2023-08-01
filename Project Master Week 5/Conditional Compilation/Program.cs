@@ -11,7 +11,7 @@ class Program
 		Console.WriteLine("ANDROID running");
 		
 		#endif
-		string y = Console.ReadLine();
+		string? y = Console.ReadLine();
 		Console.WriteLine(y);
 		
 		while (true)
