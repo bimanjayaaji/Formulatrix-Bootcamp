@@ -14,15 +14,17 @@ class Program
 	static async Task Loading()
 	{
 		Console.Write("Loading, please wait...");
-		string[] animationFrames = new string[] { "\\", "-", "/", "|" };
+		string[] animationFrames = new string[] { "\\", "-", "/", "|" }; // there are 2 \ bcs single \ represents other stuff in c#
 		while (true)
 		{
 			for (int i = 0; i < 20; i++)
 			{
 				string currentFrame = animationFrames[i % animationFrames.Length];
 				Console.Write(currentFrame);
-				await Task.Delay(100);
+				await Task.Delay(250);
 				Console.SetCursorPosition(Console.CursorLeft - 1, Console.CursorTop);
+				// cursorleft = column
+				// cursortop = row --> why not "row"!? \_(^.^)_/
 			}
 		}
 	}
