@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semaphore", "Semaphore\Sema
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoResetEvent", "AutoResetEvent\AutoResetEvent.csproj", "{2B81D983-A3F1-45A8-9E08-685B214A8C0A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileStream", "FileStream\FileStream.csproj", "{B961E24C-C5B2-407B-92AC-34D31950E95A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileStream2", "FileStream2\FileStream2.csproj", "{4DC0F438-DE58-40F5-B188-8856D1236559}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +70,13 @@ Global
 		{2B81D983-A3F1-45A8-9E08-685B214A8C0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B81D983-A3F1-45A8-9E08-685B214A8C0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B81D983-A3F1-45A8-9E08-685B214A8C0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B961E24C-C5B2-407B-92AC-34D31950E95A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B961E24C-C5B2-407B-92AC-34D31950E95A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B961E24C-C5B2-407B-92AC-34D31950E95A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B961E24C-C5B2-407B-92AC-34D31950E95A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DC0F438-DE58-40F5-B188-8856D1236559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DC0F438-DE58-40F5-B188-8856D1236559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DC0F438-DE58-40F5-B188-8856D1236559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DC0F438-DE58-40F5-B188-8856D1236559}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

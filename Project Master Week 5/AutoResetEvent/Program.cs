@@ -32,7 +32,7 @@ public static class WC
 		}	
 	}
 	
-	public static Poop(int id)
+	public static void Poop(int id)
 	{
 		Console.WriteLine($"Pooper {id} is pooping");
 	}
