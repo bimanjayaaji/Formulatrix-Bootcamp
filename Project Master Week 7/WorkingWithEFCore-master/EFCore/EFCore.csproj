@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="Northwind.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.10">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SQLite" Version="7.0.5" />
+    <Content Include="Program.cs" />
+    <Content Include="Northwind.db" />
+    <Content Include="Program.Helper.cs" />
+    <Content Include="AutoGenModels\Northwind.cs" />
+    <Content Include="AutoGenModels\Product.cs" />
+    <Content Include="AutoGenModels\Category.cs" />
+    <Content Include="Northwind4SQLite.sql" />
+    <Content Include="Product.cs" />
+    <Content Include="Program.Queries.cs" />
+    <Content Include="Category.cs" />
+    <Content Include="Program.CUD.cs" />
+  </ItemGroup>
+</Project>
