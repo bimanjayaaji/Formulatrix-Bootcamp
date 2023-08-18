@@ -1,0 +1,14 @@
+# Ignore build output
+bin/
+obj/
+
+# Ignore dependencies
+# packages/
+# node_modules/
+
+# Ignore IDE and editor files
+.vscode/
+# .idea/
+# *.suo
+# *.user
+

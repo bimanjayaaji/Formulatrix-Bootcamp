@@ -36,10 +36,10 @@ class PhoneWidget
 {
 	public PhoneWidget(WeatherStation weatherStation)
 	{
-		weatherStation.TemperatureChanged += HandleTemperatureChange;
+		weatherStation.TemperatureChanged += HandleTemperatureChangePW;
 	}
 	
-	private void HandleTemperatureChange(object sender, double newTemperature)
+	private void HandleTemperatureChangePW(object sender, double newTemperature)
 	{
 		Console.WriteLine($"Phone Widget: Current temperature is {newTemperature}");
 	}
